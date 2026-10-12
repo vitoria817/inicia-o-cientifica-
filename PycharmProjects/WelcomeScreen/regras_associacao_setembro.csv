@@ -1,0 +1,450 @@
+antecedente,consequente,suporte,confianca,lift
+"match_grade=L, match_type=E","probabilidade=baixa, separacao=>2""",0.015438769838819243,0.9541984732824428,10.182099425280128
+"match_grade=L, probabilidade=baixa, tipo_sdss=G","match_type=R, separacao=>2""",0.05097881800778114,0.8045808966861598,9.737353109147225
+"match_type=R, separacao=>2""","match_grade=L, probabilidade=baixa, tipo_sdss=G",0.05097881800778114,0.616965620328849,9.737353109147225
+"match_type=R, separacao=>2"", tipo_sdss=G","match_grade=L, probabilidade=baixa",0.05097881800778114,0.9565469293163383,9.42175451728678
+"match_type=R, separacao=>2""","match_grade=L, probabilidade=baixa",0.07827456308281357,0.9473094170403588,9.330767268938278
+"match_grade=L, probabilidade=baixa","match_type=R, separacao=>2""",0.07827456308281357,0.7709854014598541,9.330767268938278
+"match_grade=L, separacao=>2"", tipo_sdss=G","match_type=R, probabilidade=baixa",0.05097881800778114,0.8492798353909465,9.329978544427135
+"match_type=R, probabilidade=baixa, tipo_sdss=G","match_grade=L, separacao=>2""",0.05097881800778114,0.8777246145667198,9.238215589001555
+"match_grade=L, tipo_sdss=G","match_type=R, probabilidade=baixa, separacao=>2""",0.05097881800778114,0.7219064276344557,9.222746179632932
+"match_type=R, probabilidade=baixa, separacao=>2""","match_grade=L, tipo_sdss=G",0.05097881800778114,0.6512820512820513,9.22274617963293
+"match_type=R, separacao=>2"", tipo_sdss=S","match_grade=L, probabilidade=baixa",0.02729574507503242,0.9305263157894736,9.165457805096683
+"match_grade=L, tipo_sdss=S","probabilidade=baixa, separacao=>2""",0.03476810967702094,0.850453172205438,9.075049896225805
+"probabilidade=baixa, separacao=>2"", tipo_sdss=G","match_grade=L, match_type=R",0.05097881800778114,0.8648507071765322,9.073228053974464
+"match_type=R, probabilidade=baixa","match_grade=L, separacao=>2""",0.07827456308281357,0.8599050203527816,9.050661029946436
+"match_grade=L, separacao=>2""","match_type=R, probabilidade=baixa",0.07827456308281357,0.823854403639909,9.050661029946436
+match_grade=L,"match_type=R, probabilidade=baixa, separacao=>2""",0.07827456308281357,0.7020216006646358,8.968706729437828
+"match_type=R, probabilidade=baixa, separacao=>2"", tipo_sdss=S",match_grade=L,0.02729574507503242,1.0,8.968706729437828
+"match_type=E, probabilidade=baixa, separacao=>2""",match_grade=L,0.015438769838819243,1.0,8.968706729437828
+"probabilidade=baixa, separacao=>2"", tipo_sdss=G",match_grade=L,0.05894522324461187,1.0,8.968706729437828
+"match_type=R, probabilidade=baixa, separacao=>2""",match_grade=L,0.07827456308281357,1.0,8.968706729437828
+match_grade=L,"probabilidade=baixa, separacao=>2""",0.09371333292163281,0.8404873996122958,8.968706729437828
+"match_type=R, probabilidade=baixa, separacao=>2"", tipo_sdss=G",match_grade=L,0.05097881800778114,1.0,8.968706729437828
+"probabilidade=baixa, separacao=>2"", tipo_sdss=S",match_grade=L,0.03476810967702094,1.0,8.968706729437828
+"probabilidade=baixa, separacao=>2""",match_grade=L,0.09371333292163281,1.0,8.968706729437828
+"separacao=>2"", tipo_sdss=G","match_grade=L, match_type=R, probabilidade=baixa",0.05097881800778114,0.7654149281409365,8.96842542068465
+"match_type=R, separacao=>2""","match_grade=L, tipo_sdss=G",0.052059531896498486,0.6300448430493274,8.922007996062753
+"match_grade=L, tipo_sdss=G","match_type=R, separacao=>2""",0.052059531896498486,0.7372103191954525,8.922007996062753
+"match_grade=L, tipo_sdss=G","probabilidade=baixa, separacao=>2""",0.05894522324461187,0.834717971141233,8.907142080191095
+"probabilidade=baixa, separacao=>2""","match_grade=L, tipo_sdss=G",0.05894522324461187,0.628995057660626,8.907142080191095
+"match_grade=L, match_type=R, tipo_sdss=S","probabilidade=baixa, separacao=>2""",0.02729574507503242,0.8277153558052435,8.832418290974832
+"probabilidade=baixa, separacao=>2""","match_grade=L, match_type=R",0.07827456308281357,0.8352553542009885,8.762740492761
+"match_grade=L, match_type=R","probabilidade=baixa, separacao=>2""",0.07827456308281357,0.8211856171039844,8.762740492761
+"match_type=R, separacao=>2"", tipo_sdss=G",match_grade=L,0.052059531896498486,0.9768250289687138,8.760857210795006
+"match_grade=L, match_type=R, tipo_sdss=G","probabilidade=baixa, separacao=>2""",0.05097881800778114,0.8177315502724121,8.725882697569139
+"match_type=R, probabilidade=baixa, tipo_sdss=S","match_grade=L, separacao=>2""",0.02729574507503242,0.8284910965323337,8.720023611405965
+"separacao=>2"", tipo_sdss=G","match_grade=L, probabilidade=baixa",0.05894522324461187,0.885025498377376,8.717285824346016
+"match_grade=L, probabilidade=baixa, tipo_sdss=S","match_type=R, separacao=>2""",0.02729574507503242,0.7152103559870551,8.65575582548459
+"match_type=R, separacao=>2""",match_grade=L,0.07957141974927438,0.9630044843049327,8.636904798864455
+match_grade=L,"match_type=R, separacao=>2""",0.07957141974927438,0.7136527277762392,8.636904798864455
+"match_grade=L, match_type=E","separacao=>2""",0.015438769838819243,0.9541984732824428,8.588847069406668
+"match_grade=L, match_type=E, probabilidade=baixa","separacao=>2""",0.015438769838819243,0.9541984732824428,8.588847069406668
+"match_grade=L, separacao=>2"", tipo_sdss=S","match_type=R, probabilidade=baixa",0.02729574507503242,0.7802294792586054,8.571408383741247
+"match_type=R, probabilidade=baixa","match_grade=L, tipo_sdss=G",0.05508553078490706,0.6051560379918589,8.56955988036919
+"match_grade=L, tipo_sdss=G","match_type=R, probabilidade=baixa",0.05508553078490706,0.780061215566244,8.56955988036919
+"match_grade=L, tipo_sdss=S","match_type=R, probabilidade=baixa, separacao=>2""",0.02729574507503242,0.6676737160120846,8.529893872492059
+"match_type=R, probabilidade=baixa, tipo_sdss=G",match_grade=L,0.05508553078490706,0.9484316852737905,8.506205638127106
+"match_type=R, separacao=>2"", tipo_sdss=S",match_grade=L,0.02751188785277589,0.9378947368421052,8.41170283782011
+match_grade=L,"match_type=R, probabilidade=baixa",0.08534551966899277,0.765438936582664,8.40892313438472
+"match_type=R, probabilidade=baixa",match_grade=L,0.08534551966899277,0.937584803256445,8.40892313438472
+"separacao=>2"", tipo_sdss=G","match_type=R, probabilidade=baixa",0.05097881800778114,0.7654149281409365,8.408659383572717
+"match_grade=L, probabilidade=baixa, tipo_sdss=G","separacao=>2""",0.05894522324461187,0.9303118908382066,8.373841272008383
+"match_grade=L, match_type=R, probabilidade=baixa, tipo_sdss=G","separacao=>2""",0.05097881800778114,0.9254484304932735,8.330064722055353
+"separacao=>2""","match_grade=L, probabilidade=baixa",0.09371333292163281,0.8435241801000556,8.30850793695876
+"match_grade=L, probabilidade=baixa","separacao=>2""",0.09371333292163281,0.9230535279805353,8.30850793695876
+"separacao=>2""","match_grade=L, match_type=R, probabilidade=baixa",0.07827456308281357,0.7045580878265704,8.255361154975148
+"match_grade=L, match_type=R, probabilidade=baixa","separacao=>2""",0.07827456308281357,0.9171490593342981,8.255361154975146
+"match_type=R, probabilidade=baixa, tipo_sdss=S",match_grade=L,0.030259988884085716,0.9184629803186504,8.237425112323404
+"probabilidade=baixa, separacao=>2"", tipo_sdss=S","match_grade=L, match_type=R",0.02729574507503242,0.7850799289520426,8.236345506653985
+"separacao=>2"", tipo_sdss=G","match_grade=L, match_type=R",0.052059531896498486,0.7816411682892906,8.200269153293478
+"match_grade=L, probabilidade=baixa, tipo_sdss=S","separacao=>2""",0.03476810967702094,0.9110032362459547,8.200041914691909
+"match_grade=L, tipo_sdss=S","match_type=R, separacao=>2""",0.02751188785277589,0.6729607250755287,8.144434246000028
+"match_grade=L, tipo_sdss=S","match_type=R, probabilidade=baixa",0.030259988884085716,0.7401812688821753,8.131448634334507
+"match_grade=L, match_type=R, probabilidade=baixa, tipo_sdss=S","separacao=>2""",0.02729574507503242,0.9020408163265307,8.119370171637305
+"separacao=>2"", tipo_sdss=G",match_grade=L,0.06002593713332922,0.9012517385257302,8.083062532233258
+"match_type=R, probabilidade=baixa, tipo_sdss=G","separacao=>2""",0.05097881800778114,0.8777246145667198,7.9004973227787065
+"probabilidade=baixa, tipo_sdss=G","match_grade=L, match_type=R, separacao=>2""",0.05097881800778114,0.628234398782344,7.895226712830808
+"match_grade=L, match_type=R, separacao=>2""","probabilidade=baixa, tipo_sdss=G",0.05097881800778114,0.6406674427629026,7.895226712830808
+"separacao=>2""","match_type=R, probabilidade=baixa",0.07827456308281357,0.7045580878265704,7.740101164298273
+"match_type=R, probabilidade=baixa","separacao=>2""",0.07827456308281357,0.8599050203527816,7.740101164298273
+"match_grade=L, tipo_sdss=S","separacao=>2""",0.03498425245476441,0.8557401812688822,7.702612982371878
+"separacao=>2"", tipo_sdss=S","match_grade=L, probabilidade=baixa",0.03476810967702094,0.7814018043025677,7.696617650286788
+match_grade=L,"separacao=>2""",0.09501018958809362,0.8521185267238992,7.670014065169594
+"separacao=>2""",match_grade=L,0.09501018958809362,0.8551973318510283,7.670014065169593
+"match_grade=L, tipo_sdss=G","separacao=>2""",0.06002593713332922,0.85002186270223,7.651141758052924
+"match_grade=L, separacao=>2""","probabilidade=baixa, tipo_sdss=G",0.05894522324461187,0.6204094897627559,7.645579046977402
+"probabilidade=baixa, tipo_sdss=G","match_grade=L, separacao=>2""",0.05894522324461187,0.7264079147640792,7.645579046977402
+"match_type=R, separacao=>2""","probabilidade=baixa, tipo_sdss=G",0.05097881800778114,0.616965620328849,7.603138729060162
+"probabilidade=baixa, tipo_sdss=G","match_type=R, separacao=>2""",0.05097881800778114,0.628234398782344,7.603138729060162
+"match_grade=L, match_type=R, tipo_sdss=G","separacao=>2""",0.052059531896498486,0.8350668647845468,7.516530150892811
+"match_grade=L, match_type=R","separacao=>2""",0.07957141974927438,0.8347910592808552,7.514047594738681
+"separacao=>2""","match_grade=L, match_type=R",0.07957141974927438,0.7162312395775431,7.514047594738681
+"match_grade=L, match_type=R, tipo_sdss=S","separacao=>2""",0.02751188785277589,0.8342696629213483,7.509354447851803
+"match_type=R, probabilidade=baixa, tipo_sdss=S","separacao=>2""",0.02729574507503242,0.8284910965323337,7.457340926152351
+"separacao=>2"", tipo_sdss=S","match_grade=L, match_type=R, probabilidade=baixa",0.02729574507503242,0.6134628730048577,7.187991535866614
+"match_grade=L, match_type=E, separacao=>2""",probabilidade=baixa,0.015438769838819243,1.0,7.146072374227714
+"match_grade=L, match_type=E",probabilidade=baixa,0.016179830791082567,1.0,7.146072374227714
+"probabilidade=baixa, tipo_sdss=G","match_grade=L, match_type=R",0.05508553078490706,0.6788432267884322,7.121806525030828
+"match_grade=L, separacao=>2"", tipo_sdss=S",probabilidade=baixa,0.03476810967702094,0.9938217122683142,7.101921882948283
+"match_grade=L, match_type=R, separacao=>2"", tipo_sdss=S",probabilidade=baixa,0.02729574507503242,0.9921436588103255,7.089930391489673
+"separacao=>2"", tipo_sdss=S",match_grade=L,0.03498425245476441,0.7862595419847328,7.051731245283178
+"match_grade=L, separacao=>2""",probabilidade=baixa,0.09371333292163281,0.9863503412414689,7.048530924855739
+probabilidade=baixa,"match_grade=L, separacao=>2""",0.09371333292163281,0.6696822594880847,7.048530924855739
+"match_grade=L, match_type=R, separacao=>2""",probabilidade=baixa,0.07827456308281357,0.9837019790454016,7.029605536929473
+"match_grade=L, separacao=>2"", tipo_sdss=G",probabilidade=baixa,0.05894522324461187,0.9819958847736625,7.01741366378637
+"probabilidade=baixa, tipo_sdss=G",match_grade=L,0.06336071141851417,0.7808219178082192,7.002962788739127
+"match_grade=L, match_type=R, separacao=>2"", tipo_sdss=G",probabilidade=baixa,0.05097881800778114,0.9792408066429419,6.997725676067589
+"match_type=R, separacao=>2"", tipo_sdss=G",probabilidade=baixa,0.05097881800778114,0.9565469293163383,6.8355535862398344
+"match_type=R, separacao=>2""",probabilidade=baixa,0.07827456308281357,0.9473094170403588,6.769541654957868
+"separacao=>2"", tipo_sdss=S","match_type=R, probabilidade=baixa",0.02729574507503242,0.6134628730048577,6.739351629964491
+"match_grade=L, tipo_sdss=S",probabilidade=baixa,0.03816463904156117,0.9335347432024169,6.671106838780554
+"match_type=R, separacao=>2"", tipo_sdss=S",probabilidade=baixa,0.02729574507503242,0.9305263157894736,6.649608398755051
+"match_grade=L, separacao=1-2""","match_type=R, tipo_sdss=G",0.010282220712653617,0.6271186440677966,6.622062082419191
+"match_grade=L, match_type=R, tipo_sdss=S",probabilidade=baixa,0.030259988884085716,0.9176029962546817,6.557257422044157
+"probabilidade=baixa, tipo_sdss=G","separacao=>2""",0.05894522324461187,0.7264079147640792,6.538478801431203
+match_grade=L,probabilidade=baixa,0.10152535046007534,0.9105510938798117,6.506864017297348
+probabilidade=baixa,match_grade=L,0.10152535046007534,0.7255075022065314,6.506864017297348
+"separacao=>2"", tipo_sdss=S","match_grade=L, match_type=R",0.02751188785277589,0.6183206106870229,6.486858211114326
+"match_grade=L, tipo_sdss=G",probabilidade=baixa,0.06336071141851417,0.8972452995190205,6.4117798477985435
+"match_grade=L, match_type=R",probabilidade=baixa,0.08534551966899277,0.8953676708778749,6.398362177636994
+probabilidade=baixa,"match_grade=L, match_type=R",0.08534551966899277,0.6098852603706972,6.398362177636994
+"separacao=>2"", tipo_sdss=G",probabilidade=baixa,0.05894522324461187,0.885025498377376,6.324456264441681
+"match_grade=L, match_type=R, tipo_sdss=G",probabilidade=baixa,0.05508553078490706,0.883605745418524,6.3143106070442006
+"match_grade=L, separacao=1-2"", tipo_sdss=G",match_type=R,0.010282220712653617,0.9708454810495627,6.036053321034966
+"separacao=>2""",probabilidade=baixa,0.09371333292163281,0.8435241801000556,6.02788484040609
+probabilidade=baixa,"separacao=>2""",0.09371333292163281,0.6696822594880847,6.02788484040609
+"match_grade=L, separacao=1-2""",match_type=R,0.015747545235595628,0.96045197740113,5.971433622598003
+"match_type=R, tipo_sdss=G",match_grade=L,0.062341752609152104,0.6582980110857516,5.904081802000318
+"probabilidade=baixa, tipo_sdss=S",match_grade=L,0.03816463904156117,0.6491596638655462,5.8221226457905235
+"separacao=>2"", tipo_sdss=S",probabilidade=baixa,0.03476810967702094,0.7814018043025677,5.583953846898269
+"match_grade=L, tipo_sdss=G",match_type=R,0.062341752609152104,0.8828159160472234,5.488745681916948
+"match_grade=L, probabilidade=baixa, tipo_sdss=G",match_type=R,0.05508553078490706,0.8693957115009746,5.405308027005291
+"match_grade=L, separacao=>2"", tipo_sdss=G",match_type=R,0.052059531896498486,0.8672839506172839,5.392178541887379
+"probabilidade=baixa, separacao=>2"", tipo_sdss=G",match_type=R,0.05097881800778114,0.8648507071765322,5.377050298064729
+"match_grade=L, probabilidade=baixa, separacao=>2"", tipo_sdss=G",match_type=R,0.05097881800778114,0.8648507071765322,5.377050298064729
+match_grade=L,match_type=R,0.09531896498487001,0.8548878427028523,5.315108019538218
+"match_grade=L, probabilidade=baixa",match_type=R,0.08534551966899277,0.8406326034063261,5.226478689559853
+"match_grade=L, separacao=>2""",match_type=R,0.07957141974927438,0.83750406239844,5.20702756092069
+"probabilidade=baixa, separacao=>2""",match_type=R,0.07827456308281357,0.8352553542009885,5.193046631052642
+"match_grade=L, probabilidade=baixa, separacao=>2""",match_type=R,0.07827456308281357,0.8352553542009885,5.193046631052642
+"match_grade=L, tipo_sdss=S",match_type=R,0.0329772123757179,0.8066465256797583,5.015176498495806
+"separacao=>2"", tipo_sdss=G",match_type=R,0.053294633483604026,0.8001854427445526,4.975005902999632
+"match_grade=L, probabilidade=baixa, tipo_sdss=S",match_type=R,0.030259988884085716,0.7928802588996764,4.929587265257232
+"match_grade=L, separacao=>2"", tipo_sdss=S",match_type=R,0.02751188785277589,0.7864077669902912,4.889345736561254
+"match_grade=L, probabilidade=baixa, separacao=>2"", tipo_sdss=S",match_type=R,0.02729574507503242,0.7850799289520426,4.881090147636946
+"probabilidade=baixa, separacao=>2"", tipo_sdss=S",match_type=R,0.02729574507503242,0.7850799289520426,4.881090147636946
+"separacao=>2""",match_type=R,0.08262829617736059,0.7437465258476932,4.624107311595967
+"probabilidade=baixa, tipo_sdss=G",match_type=R,0.05808065213363799,0.7157534246575342,4.450065350539241
+"match_type=R, tipo_sdss=G",probabilidade=baixa,0.05808065213363799,0.6133029018584937,4.3827069240046725
+"match_grade=D, probabilidade=baixa, tipo_sdss=S","match_type=E, separacao=1-2""",0.014543321188167728,0.7050898203592815,4.27382349282345
+"match_grade=D, probabilidade=baixa","match_type=E, separacao=1-2""",0.026986969678256038,0.702572347266881,4.25856410978574
+"match_grade=D, probabilidade=baixa, tipo_sdss=G","match_type=E, separacao=1-2""",0.01244364849008831,0.6996527777777778,4.240867464179508
+"separacao=>2"", tipo_sdss=S",match_type=R,0.029333662693756563,0.659264399722415,4.098855221618378
+probabilidade=baixa,match_type=R,0.09102698696967826,0.6504854368932039,4.044273633945729
+"match_grade=D, probabilidade=baixa, tipo_sdss=G","separacao=1-2""",0.015037361823009942,0.8454861111111112,3.924034564982007
+"match_grade=D, match_type=E, probabilidade=baixa, tipo_sdss=G","separacao=1-2""",0.01244364849008831,0.8413361169102297,3.9047737865082683
+"match_grade=D, probabilidade=baixa","separacao=1-2""",0.03180386586796764,0.8279742765273312,3.842759375123839
+"match_grade=D, match_type=E, probabilidade=baixa","separacao=1-2""",0.026986969678256038,0.8245283018867925,3.8267660626118745
+"match_grade=D, probabilidade=baixa, tipo_sdss=S","separacao=1-2""",0.0167665040449577,0.812874251497006,3.772677774288053
+"match_grade=D, match_type=E, probabilidade=baixa, tipo_sdss=S","separacao=1-2""",0.014543321188167728,0.810671256454389,3.762453326387481
+"match_type=R, probabilidade=media, tipo_sdss=G","separacao=1-2""",0.021892175631445687,0.6165217391304347,2.861374755442571
+"match_grade=D, separacao=>2""",probabilidade=media,0.016087198172049653,1.0,2.354831673089508
+"match_grade=D, match_type=E, separacao=>2""",probabilidade=media,0.01303032174396344,1.0,2.354831673089508
+"match_grade=D, separacao=>2""","match_type=E, probabilidade=media",0.01303032174396344,0.8099808061420346,2.263529069610487
+"match_type=R, separacao=<1"", tipo_sdss=G","match_grade=D, probabilidade=media",0.011301179522015686,0.8819277108433735,2.126739452224385
+"match_type=R, separacao=<1"", tipo_sdss=G",probabilidade=media,0.011301179522015686,0.8819277108433735,2.076791306869301
+"match_grade=D, match_type=R, separacao=<1"", tipo_sdss=G",probabilidade=media,0.011301179522015686,0.8819277108433735,2.076791306869301
+"match_type=R, separacao=<1""","match_grade=D, probabilidade=media",0.02386833817081455,0.8608017817371938,2.075794974187696
+"match_grade=D, match_type=R, tipo_sdss=G",probabilidade=media,0.028252948805039216,0.8730916030534351,2.055983760378721
+"match_grade=D, match_type=R",probabilidade=media,0.05684555054653245,0.8675777568331763,2.042999580658711
+"match_grade=D, match_type=R, separacao=1-2"", tipo_sdss=S",probabilidade=media,0.014203668251713703,0.8646616541353384,2.0361326496638603
+"match_type=R, separacao=<1"", tipo_sdss=S","match_grade=D, probabilidade=media",0.012567158648798864,0.8426501035196687,2.0320228036178696
+"match_grade=D, match_type=R, tipo_sdss=S",probabilidade=media,0.028592601741493237,0.8621973929236499,2.0303297293118105
+"match_grade=D, match_type=R, separacao=1-2""",probabilidade=media,0.02992033594763169,0.8613333333333333,2.028295014421096
+"match_type=R, separacao=<1""",probabilidade=media,0.02386833817081455,0.8608017817371938,2.0270432998866252
+"match_grade=D, match_type=R, separacao=<1""",probabilidade=media,0.02386833817081455,0.8608017817371938,2.0270432998866252
+"match_grade=D, match_type=R, separacao=1-2"", tipo_sdss=G",probabilidade=media,0.01571666769591799,0.8583473861720068,2.021263611471433
+"match_type=E, separacao=1-2"", tipo_sdss=G","match_grade=D, probabilidade=media",0.06468844562465263,0.8349940215225189,2.0135604155642812
+"match_type=E, separacao=1-2""","match_grade=D, probabilidade=media",0.1372815414067807,0.8321167883211679,2.006622063035692
+"match_type=E, separacao=1-2"", tipo_sdss=S","match_grade=D, probabilidade=media",0.07259309578212808,0.8295695130557516,2.0004793931365277
+"match_type=R, separacao=<1"", tipo_sdss=S",probabilidade=media,0.012567158648798864,0.8426501035196687,1.9842991531002685
+"match_grade=D, match_type=R, separacao=<1"", tipo_sdss=S",probabilidade=media,0.012567158648798864,0.8426501035196687,1.9842991531002685
+"match_grade=D, separacao=1-2"", tipo_sdss=G",probabilidade=media,0.08040511332057061,0.8421733505821475,1.983176480182755
+"match_grade=D, separacao=1-2""",probabilidade=media,0.1672018773544124,0.8399255467659377,1.9778832805614528
+"match_grade=D, match_type=E, separacao=1-2"", tipo_sdss=G",probabilidade=media,0.06468844562465263,0.8383353341336535,1.9741385974880028
+"match_grade=D, separacao=1-2"", tipo_sdss=S",probabilidade=media,0.08679676403384179,0.8378539493293592,1.9730050173039066
+"match_grade=D, match_type=E, separacao=1-2""",probabilidade=media,0.1372815414067807,0.8354002254791432,1.967226910664403
+"match_type=E, separacao=1-2"", tipo_sdss=G",probabilidade=media,0.06468844562465263,0.8349940215225189,1.9662703687216097
+"match_grade=D, match_type=E, separacao=1-2"", tipo_sdss=S",probabilidade=media,0.07259309578212808,0.832801983705278,1.9611084886409609
+"match_type=E, separacao=1-2""",probabilidade=media,0.1372815414067807,0.8321167883211679,1.9594949688482035
+"match_grade=D, separacao=1-2"", tipo_sdss=S","match_type=E, probabilidade=media",0.07259309578212808,0.7007451564828614,1.9582649614163385
+"match_type=E, separacao=1-2"", tipo_sdss=S",probabilidade=media,0.07259309578212808,0.8295695130557516,1.9534965643731237
+"match_grade=D, separacao=1-2""","match_type=E, probabilidade=media",0.1372815414067807,0.6896230805025594,1.927183802325989
+"separacao=1-2"", tipo_sdss=G",probabilidade=media,0.08658062125609832,0.8163027656477438,1.9222556073778692
+"separacao=1-2""",probabilidade=media,0.1758784660038288,0.8162797363141301,1.9222013771736652
+"separacao=1-2"", tipo_sdss=S",probabilidade=media,0.0892978447477305,0.8162574089754445,1.9221488000493527
+"separacao=1-2"", tipo_sdss=S","match_grade=D, probabilidade=media",0.08679676403384179,0.7933954276037256,1.9132467846890735
+"match_grade=D, separacao=1-2"", tipo_sdss=G","match_type=E, probabilidade=media",0.06468844562465263,0.6775549805950841,1.8934589353311237
+"separacao=1-2""","match_grade=D, probabilidade=media",0.1672018773544124,0.7760103181427344,1.8713231692755468
+"separacao=1-2"", tipo_sdss=S","match_grade=D, match_type=E, probabilidade=media",0.07259309578212808,0.6635619531470506,1.8543547687134678
+"separacao=1-2"", tipo_sdss=S","match_type=E, probabilidade=media",0.07259309578212808,0.6635619531470506,1.8543547687134678
+"separacao=1-2"", tipo_sdss=G","match_grade=D, probabilidade=media",0.08040511332057061,0.7580786026200873,1.828081431456005
+"match_type=R, separacao=1-2"", tipo_sdss=G",probabilidade=media,0.021892175631445687,0.765658747300216,1.8029974689205843
+"match_type=R, separacao=1-2""",probabilidade=media,0.03859692459704811,0.764525993883792,1.800330025297789
+"match_type=R, separacao=1-2"", tipo_sdss=S",probabilidade=media,0.01670474896560242,0.763046544428773,1.7968461708623749
+"separacao=1-2""","match_type=E, probabilidade=media",0.1372815414067807,0.6371453138435081,1.7805322404121022
+"separacao=1-2""","match_grade=D, match_type=E, probabilidade=media",0.1372815414067807,0.6371453138435081,1.7805322404121022
+"separacao=1-2"", tipo_sdss=G","match_grade=D, match_type=E, probabilidade=media",0.06468844562465263,0.6098981077147017,1.7043886544523537
+"separacao=1-2"", tipo_sdss=G","match_type=E, probabilidade=media",0.06468844562465263,0.6098981077147017,1.7043886544523537
+"match_type=R, separacao=1-2"", tipo_sdss=S","match_grade=D, probabilidade=media",0.014203668251713703,0.6488011283497884,1.5645624231374717
+"match_grade=D, match_type=E, separacao=<1"", tipo_sdss=S",probabilidade=alta,0.22806150805903785,0.6757548032936871,1.5520172370377527
+"match_type=E, separacao=<1"", tipo_sdss=S",probabilidade=alta,0.22806150805903785,0.675569377115156,1.551591365665658
+"match_type=E, separacao=<1"", tipo_sdss=S","match_grade=D, probabilidade=alta",0.22806150805903785,0.675569377115156,1.551591365665658
+"probabilidade=alta, tipo_sdss=G","match_grade=D, match_type=E, separacao=<1""",0.20428580250725623,0.9944385991282129,1.5402883194493426
+"probabilidade=alta, tipo_sdss=G","match_type=E, separacao=<1""",0.20428580250725623,0.9944385991282129,1.5400673523032853
+"match_grade=D, probabilidade=alta, tipo_sdss=G","match_type=E, separacao=<1""",0.20428580250725623,0.9944385991282129,1.5400673523032853
+probabilidade=alta,"match_grade=D, match_type=E, separacao=<1""",0.43234731056629405,0.9929792213318205,1.5380278856976584
+"match_grade=D, match_type=E, separacao=<1""",probabilidade=alta,0.43234731056629405,0.6696637811468745,1.5380278856976584
+"match_type=E, separacao=<1""",probabilidade=alta,0.43234731056629405,0.6695677123182862,1.5378072428295877
+"match_type=E, separacao=<1""","match_grade=D, probabilidade=alta",0.43234731056629405,0.6695677123182862,1.5378072428295877
+probabilidade=alta,"match_type=E, separacao=<1""",0.43234731056629405,0.9929792213318205,1.5378072428295877
+"match_grade=D, probabilidade=alta","match_type=E, separacao=<1""",0.43234731056629405,0.9929792213318205,1.5378072428295877
+"probabilidade=alta, tipo_sdss=S","match_grade=D, match_type=E, separacao=<1""",0.22806150805903785,0.9916756176154672,1.5360087307903068
+"probabilidade=alta, tipo_sdss=S","match_type=E, separacao=<1""",0.22806150805903785,0.9916756176154672,1.5357883775867693
+"match_grade=D, probabilidade=alta, tipo_sdss=S","match_type=E, separacao=<1""",0.22806150805903785,0.9916756176154672,1.5357883775867693
+"match_type=E, separacao=<1"", tipo_sdss=G","match_grade=D, probabilidade=alta",0.20428580250725623,0.6629922837959715,1.5227053473524101
+"match_grade=D, match_type=E, separacao=<1"", tipo_sdss=G",probabilidade=alta,0.20428580250725623,0.6629922837959715,1.5227053473524101
+"match_type=E, separacao=<1"", tipo_sdss=G",probabilidade=alta,0.20428580250725623,0.6629922837959715,1.5227053473524101
+"match_grade=D, separacao=<1"", tipo_sdss=S",probabilidade=alta,0.2299450379793738,0.6525015333391746,1.4986110672095958
+"separacao=<1"", tipo_sdss=S",probabilidade=alta,0.2299450379793738,0.6523300630693764,1.498217248603987
+"separacao=<1"", tipo_sdss=S","match_grade=D, probabilidade=alta",0.2299450379793738,0.6523300630693764,1.498217248603987
+"match_grade=D, separacao=<1"", tipo_sdss=S","match_type=E, probabilidade=alta",0.22806150805903785,0.6471567510733375,1.4966308583448378
+"separacao=<1"", tipo_sdss=S","match_grade=D, match_type=E, probabilidade=alta",0.22806150805903785,0.6469866853538893,1.4962375601164708
+"separacao=<1"", tipo_sdss=S","match_type=E, probabilidade=alta",0.22806150805903785,0.6469866853538893,1.4962375601164708
+"probabilidade=alta, tipo_sdss=S","match_grade=D, separacao=<1""",0.2299450379793738,0.9998657357679914,1.4849200586317315
+"match_type=E, probabilidade=alta, tipo_sdss=S","match_grade=D, separacao=<1""",0.22806150805903785,0.9998646270475159,1.4849184120493808
+"match_grade=D, separacao=<1""",probabilidade=alta,0.43534243191502503,0.6465355161186774,1.484908816751967
+probabilidade=alta,"match_grade=D, separacao=<1""",0.43534243191502503,0.9998581660875115,1.484908816751967
+"match_grade=D, separacao=<1""","match_type=E, probabilidade=alta",0.43234731056629405,0.6420874031274362,1.484907357732444
+"match_type=E, probabilidade=alta","match_grade=D, separacao=<1""",0.43234731056629405,0.9998571836618109,1.4849073577324439
+"probabilidade=alta, tipo_sdss=G","match_grade=D, separacao=<1""",0.2053973939356512,0.9998496918683301,1.4848962315241774
+"match_type=E, probabilidade=alta, tipo_sdss=G","match_grade=D, separacao=<1""",0.20428580250725623,0.9998488741121354,1.4848950170585415
+"match_grade=D, probabilidade=alta, tipo_sdss=S","separacao=<1""",0.2299450379793738,0.9998657357679914,1.484715805528756
+"probabilidade=alta, tipo_sdss=S","separacao=<1""",0.2299450379793738,0.9998657357679914,1.484715805528756
+"match_grade=D, match_type=E, probabilidade=alta, tipo_sdss=S","separacao=<1""",0.22806150805903785,0.9998646270475159,1.4847141591728954
+"match_type=E, probabilidade=alta, tipo_sdss=S","separacao=<1""",0.22806150805903785,0.9998646270475159,1.4847141591728954
+"separacao=<1""","match_grade=D, probabilidade=alta",0.43534243191502503,0.6464465841357175,1.4847045651953301
+"separacao=<1""",probabilidade=alta,0.43534243191502503,0.6464465841357175,1.4847045651953301
+probabilidade=alta,"separacao=<1""",0.43534243191502503,0.9998581660875115,1.48470456519533
+"match_grade=D, probabilidade=alta","separacao=<1""",0.43534243191502503,0.9998581660875115,1.48470456519533
+"separacao=<1""","match_grade=D, match_type=E, probabilidade=alta",0.43234731056629405,0.6419990829894544,1.4847031063764975
+"separacao=<1""","match_type=E, probabilidade=alta",0.43234731056629405,0.6419990829894544,1.4847031063764975
+"match_type=E, probabilidade=alta","separacao=<1""",0.43234731056629405,0.9998571836618109,1.4847031063764973
+"match_grade=D, match_type=E, probabilidade=alta","separacao=<1""",0.43234731056629405,0.9998571836618109,1.4847031063764973
+"probabilidade=alta, tipo_sdss=G","separacao=<1""",0.2053973939356512,0.9998496918683301,1.4846919816986581
+"match_grade=D, probabilidade=alta, tipo_sdss=G","separacao=<1""",0.2053973939356512,0.9998496918683301,1.4846919816986581
+"match_grade=D, match_type=E, probabilidade=alta, tipo_sdss=G","separacao=<1""",0.20428580250725623,0.9998488741121354,1.484690767400074
+"match_type=E, probabilidade=alta, tipo_sdss=G","separacao=<1""",0.20428580250725623,0.9998488741121354,1.484690767400074
+"separacao=<1"", tipo_sdss=G","match_grade=D, match_type=E, probabilidade=alta",0.20428580250725623,0.6365210698479892,1.472034516430804
+"match_grade=D, separacao=<1"", tipo_sdss=G","match_type=E, probabilidade=alta",0.20428580250725623,0.6365210698479892,1.472034516430804
+"separacao=<1"", tipo_sdss=G","match_type=E, probabilidade=alta",0.20428580250725623,0.6365210698479892,1.472034516430804
+"match_grade=D, separacao=<1"", tipo_sdss=G",probabilidade=alta,0.2053973939356512,0.6399846065037522,1.4698632342550542
+"separacao=<1"", tipo_sdss=G",probabilidade=alta,0.2053973939356512,0.6399846065037522,1.4698632342550542
+"separacao=<1"", tipo_sdss=G","match_grade=D, probabilidade=alta",0.2053973939356512,0.6399846065037522,1.4698632342550542
+"match_grade=L, match_type=R, separacao=>2""",tipo_sdss=G,0.052059531896498486,0.6542491268917345,1.3254417755233152
+"match_grade=L, match_type=R",tipo_sdss=G,0.062341752609152104,0.6540330417881438,1.325004009217492
+"match_grade=L, match_type=R, separacao=1-2""",tipo_sdss=G,0.010282220712653617,0.6529411764705882,1.3227920018251265
+"match_type=R, probabilidade=baixa, separacao=>2""",tipo_sdss=G,0.05097881800778114,0.6512820512820513,1.319430783987271
+"match_grade=L, match_type=R, probabilidade=baixa, separacao=>2""",tipo_sdss=G,0.05097881800778114,0.6512820512820513,1.319430783987271
+"match_grade=L, separacao=1-2""",tipo_sdss=G,0.01059099610943,0.6459510357815442,1.3086306921569557
+"match_grade=L, match_type=R, probabilidade=baixa",tipo_sdss=G,0.05508553078490706,0.6454413892908828,1.3075982005238667
+"match_type=R, separacao=>2""",tipo_sdss=G,0.053294633483604026,0.6449925261584455,1.3066888497539983
+"match_type=R, probabilidade=baixa",tipo_sdss=G,0.05808065213363799,0.6380597014925373,1.2926436564830048
+match_grade=L,tipo_sdss=G,0.07061693324275922,0.6333425643865965,1.2830872194560439
+"match_grade=L, separacao=>2""",tipo_sdss=G,0.06002593713332922,0.6317842053948651,1.2799301436205495
+"probabilidade=baixa, separacao=>2""",tipo_sdss=G,0.05894522324461187,0.628995057660626,1.274279615751097
+"match_grade=L, probabilidade=baixa, separacao=>2""",tipo_sdss=G,0.05894522324461187,0.628995057660626,1.274279615751097
+"match_grade=L, probabilidade=baixa",tipo_sdss=G,0.06336071141851417,0.6240875912408759,1.264337591012574
+"probabilidade=alta, tipo_sdss=G","match_grade=D, match_type=E",0.20431668004693387,0.9945889072598828,1.2085227310441062
+"probabilidade=alta, separacao=<1"", tipo_sdss=G","match_grade=D, match_type=E",0.20428580250725623,0.994588093806374,1.2085217426185881
+probabilidade=alta,"match_grade=D, match_type=E",0.43240906564564935,0.9931210552443089,1.2067391473808649
+"probabilidade=alta, separacao=<1""","match_grade=D, match_type=E",0.43234731056629405,0.9931200794382581,1.20673796168114
+"probabilidade=alta, tipo_sdss=S","match_grade=D, match_type=E",0.2280923855987155,0.9918098818474759,1.205145943552784
+"probabilidade=alta, separacao=<1"", tipo_sdss=S","match_grade=D, match_type=E",0.22806150805903785,0.9918087820598899,1.2051446072033765
+"match_grade=D, probabilidade=alta, tipo_sdss=G",match_type=E,0.20431668004693387,0.9945889072598828,1.185221192571607
+"probabilidade=alta, tipo_sdss=G",match_type=E,0.20431668004693387,0.9945889072598828,1.185221192571607
+"match_grade=D, probabilidade=alta, separacao=<1"", tipo_sdss=G",match_type=E,0.20428580250725623,0.994588093806374,1.1852202232039308
+"probabilidade=alta, separacao=<1"", tipo_sdss=G",match_type=E,0.20428580250725623,0.994588093806374,1.1852202232039308
+"match_grade=D, probabilidade=alta",match_type=E,0.43240906564564935,0.9931210552443089,1.1834719982022368
+probabilidade=alta,match_type=E,0.43240906564564935,0.9931210552443089,1.1834719982022368
+"probabilidade=alta, separacao=<1""",match_type=E,0.43234731056629405,0.9931200794382581,1.183470835364
+"match_grade=D, probabilidade=alta, separacao=<1""",match_type=E,0.43234731056629405,0.9931200794382581,1.183470835364
+"match_grade=D, probabilidade=alta, tipo_sdss=S",match_type=E,0.2280923855987155,0.9918098818474759,1.1819095129525832
+"probabilidade=alta, tipo_sdss=S",match_type=E,0.2280923855987155,0.9918098818474759,1.1819095129525832
+"match_grade=D, probabilidade=alta, separacao=<1"", tipo_sdss=S",match_type=E,0.22806150805903785,0.9918087820598899,1.1819082023693415
+"probabilidade=alta, separacao=<1"", tipo_sdss=S",match_type=E,0.22806150805903785,0.9918087820598899,1.1819082023693415
+"match_grade=D, match_type=E, tipo_sdss=G","separacao=<1""",0.30812696844315446,0.7887913998893368,1.1712883208077056
+"separacao=<1"", tipo_sdss=G","match_grade=D, match_type=E",0.30812696844315446,0.9600731191071772,1.1665826749486001
+"separacao=<1""","match_grade=D, match_type=E",0.6456184771197431,0.9586886749197616,1.1649004399486511
+"match_grade=D, match_type=E","separacao=<1""",0.6456184771197431,0.7844895508948336,1.1649004399486511
+"separacao=<1"", tipo_sdss=S","match_grade=D, match_type=E",0.33749150867658867,0.9574281709880869,1.1633688044730492
+"match_grade=D, match_type=E, tipo_sdss=S","separacao=<1""",0.33749150867658867,0.7806027710327096,1.1591289015435733
+"match_type=E, tipo_sdss=G","match_grade=D, separacao=<1""",0.30812696844315446,0.7724282065175323,1.1471481586773422
+"match_type=E, tipo_sdss=G","separacao=<1""",0.30812696844315446,0.7724282065175323,1.1469903666335075
+"separacao=<1"", tipo_sdss=G",match_type=E,0.30812696844315446,0.9600731191071772,1.144089783103545
+"match_grade=D, separacao=<1"", tipo_sdss=G",match_type=E,0.30812696844315446,0.9600731191071772,1.144089783103545
+"separacao=<1""",match_type=E,0.645711109738776,0.9588262265016048,1.1426038993075385
+match_type=E,"separacao=<1""",0.645711109738776,0.7694741877322736,1.1426038993075383
+match_type=E,"match_grade=D, separacao=<1""",0.6456184771197431,0.7693638002722891,1.1425971493382103
+"match_grade=D, separacao=<1""",match_type=E,0.6456184771197431,0.9588205622047966,1.1425971493382103
+"separacao=<1"", tipo_sdss=S",match_type=E,0.3375841412956216,0.9576909600560617,1.1412510369936202
+"match_grade=D, separacao=<1"", tipo_sdss=S",match_type=E,0.33749150867658867,0.9576798387803382,1.1412377841093584
+"match_type=E, tipo_sdss=S","separacao=<1""",0.3375841412956216,0.7667975873193996,1.1386293747329699
+"match_type=E, tipo_sdss=S","match_grade=D, separacao=<1""",0.33749150867658867,0.7665871791275074,1.1384735352512245
+"match_grade=D, tipo_sdss=G","match_type=E, separacao=<1""",0.30812696844315446,0.7284473319220381,1.1281319477633478
+"match_grade=D, tipo_sdss=G","separacao=<1""",0.3209411474093744,0.7587415139791226,1.1266667891667979
+"match_type=E, probabilidade=media, separacao=1-2"", tipo_sdss=G",match_grade=D,0.06468844562465263,1.0,1.125490877497828
+"match_type=E, probabilidade=alta, separacao=<1"", tipo_sdss=G",match_grade=D,0.20428580250725623,1.0,1.125490877497828
+"probabilidade=alta, separacao=<1"", tipo_sdss=G",match_grade=D,0.2053973939356512,1.0,1.125490877497828
+"match_type=E, separacao=<1"", tipo_sdss=G",match_grade=D,0.30812696844315446,1.0,1.125490877497828
+"match_type=E, probabilidade=alta, tipo_sdss=S",match_grade=D,0.2280923855987155,1.0,1.125490877497828
+"probabilidade=alta, tipo_sdss=G",match_grade=D,0.20542827147532886,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=<1"", tipo_sdss=G",match_grade=D,0.1014944729203977,1.0,1.125490877497828
+"match_type=E, probabilidade=alta, tipo_sdss=G",match_grade=D,0.20431668004693387,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=>2""",match_grade=D,0.01303032174396344,1.0,1.125490877497828
+"match_type=R, separacao=<1"", tipo_sdss=G",match_grade=D,0.012814178966219971,1.0,1.125490877497828
+"probabilidade=media, separacao=<1""",match_grade=D,0.23139628234422283,1.0,1.125490877497828
+"probabilidade=alta, tipo_sdss=S",match_grade=D,0.22997591551905144,1.0,1.125490877497828
+"probabilidade=alta, separacao=<1"", tipo_sdss=S",match_grade=D,0.2299450379793738,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=1-2"", tipo_sdss=S",match_grade=D,0.07259309578212808,1.0,1.125490877497828
+"match_type=E, probabilidade=alta, separacao=<1"", tipo_sdss=S",match_grade=D,0.22806150805903785,1.0,1.125490877497828
+probabilidade=alta,match_grade=D,0.43540418699438027,1.0,1.125490877497828
+"match_type=R, probabilidade=media, separacao=<1""",match_grade=D,0.02386833817081455,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=<1"", tipo_sdss=S",match_grade=D,0.10603347125301056,1.0,1.125490877497828
+"probabilidade=media, separacao=<1"", tipo_sdss=G",match_grade=D,0.1127956524424134,1.0,1.125490877497828
+"probabilidade=media, separacao=<1"", tipo_sdss=S",match_grade=D,0.11860062990180942,1.0,1.125490877497828
+"match_type=E, probabilidade=alta",match_grade=D,0.43240906564564935,1.0,1.125490877497828
+"match_type=R, probabilidade=media, separacao=<1"", tipo_sdss=S",match_grade=D,0.012567158648798864,1.0,1.125490877497828
+"match_type=E, probabilidade=media, tipo_sdss=G",match_grade=D,0.1715247329092818,1.0,1.125490877497828
+"match_type=E, probabilidade=media, tipo_sdss=S",match_grade=D,0.18631507441487064,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=1-2""",match_grade=D,0.1372815414067807,1.0,1.125490877497828
+"match_type=E, probabilidade=alta, separacao=<1""",match_grade=D,0.43234731056629405,1.0,1.125490877497828
+"match_type=R, separacao=<1""",match_grade=D,0.02772803063051936,1.0,1.125490877497828
+"match_type=E, probabilidade=media",match_grade=D,0.35783980732415244,1.0,1.125490877497828
+"separacao=<1"", tipo_sdss=G",match_grade=D,0.3209411474093744,1.0,1.125490877497828
+"match_type=R, separacao=<1"", tipo_sdss=S",match_grade=D,0.014913851664299389,1.0,1.125490877497828
+"match_type=R, probabilidade=media, separacao=<1"", tipo_sdss=G",match_grade=D,0.011301179522015686,1.0,1.125490877497828
+"probabilidade=alta, separacao=<1""",match_grade=D,0.43534243191502503,1.0,1.125490877497828
+"match_type=E, probabilidade=media, separacao=<1""",match_grade=D,0.20752794417340825,1.0,1.125490877497828
+"separacao=<1""",match_grade=D,0.6733465077502625,0.9998624484181569,1.125336064447278
+match_grade=D,"separacao=<1""",0.6733465077502625,0.7578453518679409,1.1253360644472779
+"match_type=E, separacao=<1""",match_grade=D,0.6456184771197431,0.9998565416985463,1.1253294164882406
+match_grade=D,"match_type=E, separacao=<1""",0.6456184771197431,0.7266377063423111,1.1253294164882406
+"separacao=<1"", tipo_sdss=S",match_grade=D,0.35240536034088804,0.9997372109320253,1.1251951107991163
+"match_type=E, separacao=<1"", tipo_sdss=S",match_grade=D,0.33749150867658867,0.9997256013902863,1.1251820443657972
+"match_grade=D, tipo_sdss=S","separacao=<1""",0.35240536034088804,0.757031042716901,1.1241268844305161
+"match_grade=D, tipo_sdss=S","match_type=E, separacao=<1""",0.33749150867658867,0.7249933669408332,1.1227828606420154
+"match_type=E, separacao=1-2"", tipo_sdss=S",match_grade=D,0.08716729450997344,0.9961185603387438,1.1211223525675258
+"match_type=E, separacao=1-2""",match_grade=D,0.16433026616439203,0.99606962380685,1.121067274947303
+"match_type=E, separacao=1-2"", tipo_sdss=G",match_grade=D,0.07716297165441857,0.9960143483459546,1.1210050629203157
+"probabilidade=media, tipo_sdss=S",match_grade=D,0.21490767615636386,0.9875141884222475,1.1114382104689107
+"match_grade=D, tipo_sdss=S",match_type=E,0.43234731056629405,0.9287609445476254,1.1067760220082936
+"match_type=E, tipo_sdss=S",match_grade=D,0.43234731056629405,0.9820451676251929,1.10528287745298
+match_type=E,match_grade=D,0.8229790650280986,0.9807189903226994,1.1037902769970789
+match_grade=D,match_type=E,0.8229790650280986,0.9262554300608167,1.1037902769970787
+"match_type=E, tipo_sdss=G",match_grade=D,0.3906317544618045,0.9792553603220063,1.1021429747832665
+"match_grade=D, tipo_sdss=G",match_type=E,0.3906317544618045,0.9234980655522301,1.1005044100148849
+"match_type=E, probabilidade=baixa, separacao=1-2"", tipo_sdss=S",match_grade=D,0.014543321188167728,0.9771784232365145,1.0998054010404086
+"match_type=E, probabilidade=baixa, separacao=1-2""",match_grade=D,0.026986969678256038,0.976536312849162,1.0990827116570967
+probabilidade=media,match_grade=D,0.4146853578706849,0.9765142150803461,1.0990578408198814
+"match_type=E, probabilidade=baixa, separacao=1-2"", tipo_sdss=G",match_grade=D,0.01244364849008831,0.9757869249394673,1.0982392824010283
+"probabilidade=media, separacao=1-2"", tipo_sdss=S",match_grade=D,0.08679676403384179,0.9719917012448133,1.0939677927546316
+"probabilidade=media, separacao=<1"", tipo_sdss=G","match_grade=D, match_type=E",0.1014944729203977,0.8998083766767041,1.0933551227648572
+"probabilidade=media, separacao=<1""","match_grade=D, match_type=E",0.20752794417340825,0.8968508139845209,1.0897613950288032
+"probabilidade=media, separacao=<1"", tipo_sdss=S","match_grade=D, match_type=E",0.10603347125301056,0.8940380109346524,1.0863435644066204
+"probabilidade=media, tipo_sdss=G",match_grade=D,0.199777681714321,0.964951528709918,1.086044142790596
+"probabilidade=media, separacao=<1"", tipo_sdss=G",match_type=E,0.1014944729203977,0.8998083766767041,1.0722741320621016
+"match_grade=D, probabilidade=media, separacao=<1"", tipo_sdss=G",match_type=E,0.1014944729203977,0.8998083766767041,1.0722741320621016
+"probabilidade=media, separacao=1-2""",match_grade=D,0.1672018773544124,0.9506671348314607,1.0699671877898067
+"match_grade=D, probabilidade=media, separacao=<1""",match_type=E,0.20752794417340825,0.8968508139845209,1.0687496950253044
+"probabilidade=media, separacao=<1""",match_type=E,0.20752794417340825,0.8968508139845209,1.0687496950253044
+"separacao=1-2"", tipo_sdss=S",match_grade=D,0.10359414561847712,0.9469376234829241,1.065769656789504
+"match_grade=D, probabilidade=media, separacao=<1"", tipo_sdss=S",match_type=E,0.10603347125301056,0.8940380109346524,1.065397763628423
+"probabilidade=media, separacao=<1"", tipo_sdss=S",match_type=E,0.10603347125301056,0.8940380109346524,1.065397763628423
+"probabilidade=media, separacao=1-2"", tipo_sdss=G",match_grade=D,0.08040511332057061,0.9286733238231099,1.0452133541384965
+"probabilidade=media, separacao=>2""",match_grade=D,0.016087198172049653,0.9253996447602132,1.0415288582173505
+"probabilidade=media, tipo_sdss=S","match_grade=D, match_type=E",0.18631507441487064,0.8561293984108967,1.0402808950938094
+"separacao=1-2""",match_grade=D,0.1990674983017353,0.9239036973344797,1.0398451830364712
+tipo_sdss=S,"match_grade=D, match_type=E",0.43234731056629405,0.853780487804878,1.0374267391306338
+"match_grade=D, probabilidade=baixa, tipo_sdss=S",match_type=E,0.01793985055270796,0.8697604790419161,1.0364669711245353
+tipo_sdss=S,match_type=E,0.44025196072376954,0.869390243902439,1.0360257732282587
+tipo_sdss=S,match_grade=D,0.4655097881800778,0.9192682926829269,1.0346280773876375
+"match_grade=D, probabilidade=baixa, separacao=1-2"", tipo_sdss=S",match_type=E,0.014543321188167728,0.8674033149171271,1.0336580107041278
+tipo_sdss=S,"separacao=<1""",0.35249799295992096,0.6960975609756097,1.0336458326343922
+tipo_sdss=S,"match_grade=D, separacao=<1""",0.35240536034088804,0.6959146341463415,1.033516363620095
+"match_grade=D, probabilidade=media, tipo_sdss=S",match_type=E,0.18631507441487064,0.8669540229885058,1.0331226032492824
+tipo_sdss=S,"match_type=E, separacao=<1""",0.3375841412956216,0.6666463414634146,1.0324219785115794
+tipo_sdss=S,"match_grade=D, match_type=E, separacao=<1""",0.33749150867658867,0.6664634146341464,1.032286773463172
+"match_grade=D, probabilidade=media",match_type=E,0.35783980732415244,0.8629188384214446,1.0283139971710233
+"match_type=R, probabilidade=media, tipo_sdss=S",match_grade=D,0.028592601741493237,0.9132149901380672,1.0278151405946636
+probabilidade=media,"match_grade=D, match_type=E",0.35783980732415244,0.8426525121791609,1.0239051611238623
+"match_grade=D, probabilidade=media, tipo_sdss=G",match_type=E,0.1715247329092818,0.8585780525502318,1.0231412153619535
+"probabilidade=media, tipo_sdss=S",match_type=E,0.18631507441487064,0.8561293984108967,1.0202232290883946
+"match_grade=D, probabilidade=baixa",match_type=E,0.032730192058296796,0.8520900321543409,1.0154096398186143
+"separacao=1-2"", tipo_sdss=G",match_grade=D,0.0954733526832582,0.9001455604075691,1.013105616658889
+"match_grade=D, probabilidade=baixa, separacao=1-2""",match_type=E,0.026986969678256038,0.8485436893203884,1.0111835714880266
+"probabilidade=media, tipo_sdss=G","match_grade=D, match_type=E",0.1715247329092818,0.8284862043251305,1.0066917125004193
+probabilidade=media,match_type=E,0.35783980732415244,0.8426525121791609,1.0041632358035952
+"match_grade=D, separacao=1-2"", tipo_sdss=S",match_type=E,0.08716729450997344,0.8414307004470939,1.0027072401177313
+"match_grade=D, probabilidade=media, separacao=1-2"", tipo_sdss=S",match_type=E,0.07259309578212808,0.8363571682675205,0.9966612669357147
+"match_grade=D, probabilidade=baixa, tipo_sdss=G",match_type=E,0.014790341505588835,0.8315972222222222,0.9909889847624421
+"probabilidade=media, separacao=1-2"", tipo_sdss=S","match_grade=D, match_type=E",0.07259309578212808,0.8129322268326418,0.9877921096387624
+"probabilidade=media, tipo_sdss=G",match_type=E,0.1715247329092818,0.8284862043251305,0.9872816798496404
+"match_grade=D, probabilidade=baixa, separacao=1-2"", tipo_sdss=G",match_type=E,0.01244364849008831,0.8275154004106776,0.9861248025058029
+"match_grade=D, separacao=1-2""",match_type=E,0.16433026616439203,0.8255002326663564,0.9837233887159222
+"match_grade=D, probabilidade=media, separacao=1-2""",match_type=E,0.1372815414067807,0.8210526315789474,0.9784233184794418
+"probabilidade=media, separacao=1-2"", tipo_sdss=S",match_type=E,0.07259309578212808,0.8129322268326418,0.9687464804136563
+"separacao=1-2"", tipo_sdss=S","match_grade=D, match_type=E",0.08716729450997344,0.7967823878069432,0.9681684767761851
+tipo_sdss=G,"match_grade=D, match_type=E, separacao=<1""",0.30812696844315446,0.62423370449143,0.9668770746405593
+tipo_sdss=G,"match_type=E, separacao=<1""",0.30812696844315446,0.62423370449143,0.9667383680977167
+tipo_sdss=G,"match_grade=D, separacao=<1""",0.3209411474093744,0.6501939196797197,0.9656156409752558
+tipo_sdss=G,"separacao=<1""",0.3209411474093744,0.6501939196797197,0.9654828190163871
+"match_grade=D, separacao=>2""",match_type=E,0.01303032174396344,0.8099808061420346,0.9652293626123536
+"match_grade=D, probabilidade=media, separacao=>2""",match_type=E,0.01303032174396344,0.8099808061420346,0.9652293626123536
+tipo_sdss=G,match_grade=D,0.4229914160439696,0.8569373201551358,0.964475136422041
+"match_grade=D, separacao=1-2"", tipo_sdss=G",match_type=E,0.07716297165441857,0.8082147477360931,0.9631248048048391
+tipo_sdss=G,match_type=E,0.3989069350954116,0.8081446265482297,0.9630412435291227
+tipo_sdss=G,"match_grade=D, match_type=E",0.3906317544618045,0.7913799574627799,0.9616039958875019
+"match_grade=D, probabilidade=media, separacao=1-2"", tipo_sdss=G",match_type=E,0.06468844562465263,0.804531490015361,0.9587355791896633
+"match_type=R, probabilidade=media",match_grade=D,0.05684555054653245,0.850739371534196,0.957499401789973
+"match_type=R, probabilidade=media, separacao=1-2"", tipo_sdss=S",match_grade=D,0.014203668251713703,0.8502772643253235,0.9569793043419609
+"separacao=1-2"", tipo_sdss=S",match_type=E,0.08750694744642747,0.7998871013265594,0.953201003185118
+"probabilidade=media, separacao=1-2""","match_grade=D, match_type=E",0.1372815414067807,0.7805477528089888,0.948441808519563
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=S",match_grade=D,0.0167665040449577,0.8353846153846154,0.9402177638174163
+"probabilidade=media, separacao=1-2""",match_type=E,0.1372815414067807,0.7805477528089888,0.9301548928311407
+"separacao=1-2""","match_grade=D, match_type=E",0.16433026616439203,0.7626827171109201,0.9267340440608658
+"separacao=1-2""",match_type=E,0.16497869449762242,0.7656921754084265,0.9124519554320676
+"probabilidade=media, separacao=>2""","match_grade=D, match_type=E",0.01303032174396344,0.7495559502664298,0.9107837393662476
+"probabilidade=media, separacao=1-2"", tipo_sdss=G","match_grade=D, match_type=E",0.06468844562465263,0.7471469329529244,0.9078565478787908
+"probabilidade=baixa, separacao=1-2""",match_grade=D,0.03180386586796764,0.8046875,0.9056684404865334
+"match_type=R, probabilidade=media, tipo_sdss=G",match_grade=D,0.028252948805039216,0.7956521739130434,0.8954992634004457
+"probabilidade=media, separacao=>2""",match_type=E,0.01303032174396344,0.7495559502664298,0.8932229092735989
+"probabilidade=media, separacao=1-2"", tipo_sdss=G",match_type=E,0.06468844562465263,0.7471469329529244,0.8903521569935391
+"separacao=1-2"", tipo_sdss=G","match_grade=D, match_type=E",0.07716297165441857,0.7275109170305677,0.8839968693562438
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=S",match_type=E,0.01488297412462175,0.7415384615384616,0.883668713080348
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=S","match_grade=D, match_type=E",0.014543321188167728,0.7246153846153847,0.8804785144694348
+"match_type=R, probabilidade=media, separacao=1-2""",match_grade=D,0.02992033594763169,0.7752,0.8724805282363163
+"separacao=1-2"", tipo_sdss=G",match_type=E,0.07747174705119496,0.7304221251819505,0.8704217149112355
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=G",match_grade=D,0.015037361823009942,0.773015873015873,0.8700223132403845
+"match_type=R, separacao=1-2"", tipo_sdss=S",match_grade=D,0.016426851108503674,0.7503526093088858,0.8445150166838428
+"probabilidade=baixa, separacao=1-2""",match_type=E,0.027635398011486446,0.69921875,0.8332376067078779
+"probabilidade=baixa, separacao=1-2""","match_grade=D, match_type=E",0.026986969678256038,0.6828125,0.8296839239485236
+"match_type=R, probabilidade=media, separacao=1-2"", tipo_sdss=G",match_grade=D,0.01571666769591799,0.7179125528913963,0.8080040291204434
+"match_type=E, probabilidade=baixa, tipo_sdss=S",match_grade=D,0.01793985055270796,0.6941457586618877,0.7812547190277634
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=G",match_type=E,0.012752423886864695,0.6555555555555556,0.7812055128315201
+"probabilidade=baixa, separacao=1-2"", tipo_sdss=G","match_grade=D, match_type=E",0.01244364849008831,0.6396825396825396,0.7772768067444088
+"match_type=R, separacao=1-2""",match_grade=D,0.034737232137343296,0.6880733944954128,0.7744203285535514
+"match_type=E, probabilidade=baixa",match_grade=D,0.032730192058296796,0.6691919191919192,0.7531694003457687
+"match_type=E, probabilidade=baixa, tipo_sdss=G",match_grade=D,0.014790341505588835,0.6412315930388219,0.7217003083285938
+"match_type=R, separacao=1-2"", tipo_sdss=G",match_grade=D,0.018310381028839622,0.6403887688984882,0.7207517174473133
